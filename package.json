@@ -1,0 +1,12 @@
+{
+    "name": "bootstrap-npm",
+    "version": "4.1.0",
+    "description": "install html5-boilerplate via npm",
+    "author": "Andrea Parodi",
+    "keywords": ["html5-boilerplate", "npm"],
+    "repository" : {
+        "type": "git",
+        "url": "https://github.com/parroit/html5-boilerplate.git"
+    },
+    "engines": { "node": "*" }
+}
